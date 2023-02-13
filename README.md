@@ -27,6 +27,7 @@ este número é positivo ou negativo e só encerre o programa quando o usuário 
 6 Crie um algoritmo usando Do While , Switch Case e If que receba o nome de 3 candidatos e em seguida solici-
 te N votos a esses candidatos só encerre o programa quando digitar 0 e em seguida, imprima o total de votos
 que cada candidato recebeu e apresente que venceu a eleição.
+
 7 Crie um algoritmo que leia dois números e apresente a diferença entre eles.
 
 8 Crie um algoritmo que leia dois números e imprima-os em ordem decrescente. </h4>
